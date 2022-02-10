@@ -12,7 +12,7 @@ AWS API gateway
 
 AWS S3 Bucket
 
-## Take Note
+## Take Note:
 
 Before starting the deployment please make sure the correct variables are set within the terraform script (have a look at the env/variables.tf script). Also, set the correct EC2 ID’s in the Lambda Script (have a look at the ec2Instances variable in the js/lambda_function.js script)
 
